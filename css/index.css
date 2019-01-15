@@ -204,7 +204,6 @@ button:hover {
 	flex-direction: column;
 	justify-content: space-between;
  	margin-right: 2%;
-	text-align: justify;
 }
 
 .main .content-bottom .content-text:last-child {
